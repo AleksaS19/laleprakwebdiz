@@ -1,0 +1,350 @@
+
+.col{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.as-text{
+    color: #113f67 !important;
+}
+
+.as-text2{
+    color: #efcc00 !important;
+}
+
+.as-text3{
+    color: #f8f9fa !important;
+}
+
+.as-textP{
+    padding-bottom: 5px;
+    font-size: 30px;
+}
+
+.as-textPP{
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+.as-bgcolor{
+    background-color: #f8f9fa;
+}
+
+.as-bgcolor2{
+    background-color: #113f67;
+}
+
+.as-dugme2{
+    background-color: #f8f9fa;
+    color: #113f67;
+    border: 1px solid #113f67;
+
+}
+
+.as-dugme2:hover{
+    background-color: #113f67;
+    color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+}
+
+.as-dugme2:active{
+    background-color: #113f67;
+    color: #f8f9fa;
+    border: #f8f9fa;
+}
+
+.as-dugme3{
+    background-color: #efcc00;
+    color:#f8f9fa;
+}
+
+.as-dugme3:active{
+    color: #efcc00;
+    background-color: #f8f9fa;
+    border: 1px solid #efcc00;
+}
+
+.as-dugme3:hover{
+    background-color: #c7ab0e;
+}
+
+.as-slika1{
+    height: 600px !important;
+}
+
+.as-slika2{
+    height: 288px !important;
+
+}
+
+.as-slika3{
+    padding-top: 20px;
+    height: 18%;
+}
+
+
+.as-lista ul{
+    list-style-type: none;
+}
+
+
+
+
+.as-lista ul li a{
+    text-decoration: none !important;
+    color: #f8f9fa !important;
+    font-size: 25px;
+    
+}
+
+
+.as-fafa{
+    font-size: 40px;
+    color: #f8f9fa;
+    padding-top: 30px;
+}
+
+.as-fafa:hover{
+    color: #efcc00;
+}
+
+.as-naslov h1{
+    color: #f8f9fa;
+    font-size: 45px;
+    letter-spacing: 1rem;
+}
+
+nav ul li a.as-text:hover{
+    color: #efcc00 !important;
+}
+
+nav ul{
+    width: 100%;
+
+}
+
+.as-btnB{
+    color:#113f67 !important;
+    background-color:#f8f9fa !important;
+   
+    
+}
+
+.as-btnB:hover{
+    color:#f8f9fa !important;
+    background-color:#113f67 !important;
+    border: 1px solid #f8f9fa !important;
+}
+
+
+.navbar-brand img{
+    margin-left: 10px;
+    
+}
+
+.carousel-item img{
+    height: 800px;
+    
+}
+
+.carousel-caption{
+    padding-bottom: 10rem !important;
+    
+}
+
+.carousel-caption h5{
+    font-size: 90px;
+    padding-bottom: 180px;
+    
+}
+
+.carousel-caption button{
+    background-color:#f8f9fa ;
+    color: #113f67 ;
+    border:1px solid #113f67;
+    padding: 15px 50px;
+    font-size: 30px;
+    
+
+}
+
+.carousel-caption button:hover{
+    background-color: #113f67;
+    color: #f8f9fa;
+    border:1px solid #f8f9fa;
+}
+
+.naslov{
+    width: 100%;
+    height: 280px;
+    background-color:#f8f9fa;
+    
+}
+
+.text{
+    width: 70%;
+    height: 100%;
+    margin: 0px auto;
+    text-align: center;
+    padding-top: 100px;
+    
+}
+
+.text h2{
+    color: #efcc00;
+    font-size: 40px;
+}
+
+.text p{
+    font-size: 22px;
+}
+
+.text h3{
+    color: #113f67;
+    font-size: 30px;
+
+}
+
+
+
+#kartice{
+    display: flex;
+    width: 100%;
+    background-color:#f8f9fa;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: space-evenly !important;
+    padding-bottom: 50px;
+    
+}
+
+.card{
+    width: 100% !important;
+    
+}
+
+.card h5{
+    color: #113f67 !important;
+}
+
+
+
+
+.btn{
+    width: 25% !important;
+}
+
+#avioKarte{
+    width: 100%;
+    background-image: url("../pictures/Berlin2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+#karteKon{
+    width: 30%;
+    height: 85%;
+    margin: 0px auto;
+    padding-top: 20px;
+    
+}
+
+.fa-plane-up{
+    font-size: 50px;
+    color: #f8f9fa;
+    
+}
+
+#aranzmani{
+    width: 100%;
+    
+}
+
+#vertikalna img{
+    height: 700px;
+}
+
+   
+
+#slikeA{
+    height: 600px;
+}
+
+footer{
+    width: 100%;
+    
+}
+
+footer li a:hover{
+    color:#efcc00 !important;
+}
+
+
+
+
+/*PUTOVANAJ STRANICA*/
+
+.as-naslov{
+    padding-top: 10%;
+    width: 100%;
+    min-height: 450px;
+    background-repeat: no-repeat;
+}
+
+.as-naslov h1{
+    color: #f8f9fa;
+    font-size: 45px;
+}
+
+
+#naslov1{
+    background-color: #113f67;
+}
+
+
+.opis{
+    font-size: 18px;
+}
+
+.opis2{
+    font-size: 22px;
+}
+.zuti{
+    color: #efcc00;
+}
+
+.slike{
+    height: 400px;
+    
+} 
+
+
+.glavni{
+    background-color: #f8f9fa;
+}
+
+#autor{
+    height: 600px;
+}
+
+#autorS{
+    width: 70%;
+    height: 87%;
+}
+
+
+#glavniA{
+    border-top: 2px solid #113f67;
+}
+
+#h1A{
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 15%;
+}
+
+#h2A{
+    font-size: 45px;
+    font-weight: 700;
+}
